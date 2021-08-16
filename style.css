@@ -1,3 +1,9 @@
+body{
+    background-image: url("https://www.clipartkey.com/mpngs/m/250-2509527_transparent-green-smoke-png-transparent-light-blue-smoke.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30px;
+}
 .left{
     padding:0px;
     margin:0px;
@@ -32,23 +38,46 @@ a{
     color:rgb(19, 14, 14);
     text-decoration:none;
 }
-img{
+.phone{
     width: 500px;
     height: 704px;
     /* margin-top: 100px; */
     padding-top: 128px;
+    margin-right: 140px;
     float: right;
+}
+.display{
+    width: 265px;
+    height: 648px;
+    /* padding-top: 172px; */
+    float: right;
+    right: 50px;
 }
 .name{
     font-family: 'Josefin Sans', sans-serif;
     margin-left: 383px;
     position: absolute;
-    margin-top: 327px;
+    margin-top: 204px;
 }
 .name h1{
     font-size:50px;
     font-weight:bold;
-    color:#768bc7;
+    color:#767f99;
     font-family: 'Josefin Sans', sans-serif;
 
+}
+.desc{
+    padding-top: 20px;
+    color:black;
+    padding-right: 600px;
+}
+button{
+    padding-top: 20px;  
+}
+.connect{
+    margin-top:20px;
+    
+}
+span{
+    color: red;
 }
