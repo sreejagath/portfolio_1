@@ -81,3 +81,32 @@ button{
 span{
     color: red;
 }
+.description{
+    color: black;
+    font-size: 20px;
+    padding-right: 600px;
+}
+.mk{
+    background-color: #c5d6cf;
+    opacity: 0.5;
+    height: 26rem;
+    width: 57rem;
+    margin-left: 380px;
+    margin-top: 424px;
+    position: absolute;
+    border-radius: 8px;
+    
+}
+.heading_mk{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.iphone{
+    width: 500px;
+    height: 779px;
+    /* margin-top: 100px; */
+    padding-top: 128px;
+    margin-right: 140px;
+    float: right;
+}
